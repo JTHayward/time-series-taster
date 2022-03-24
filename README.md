@@ -1,3 +1,4 @@
+<!-- #region -->
 # (Serious) Time for Time Series
 
 ## Introduction
@@ -11,3 +12,6 @@ This repository contains material for the Time Series taser.
 
 Solutions to the exercises are in the `answers` folder
 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JTHaywardGDD/time-series/HEAD)
+<!-- #endregion -->
