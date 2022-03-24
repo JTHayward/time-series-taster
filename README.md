@@ -1,9 +1,3 @@
-```python
-# Optional: change Jupyter Notebook theme to GDD theme
-from IPython.core.display import HTML
-HTML(url='https://gdd.li/jupyter-theme')
-```
-
 # (Serious) Time for Time Series
 
 ## Introduction
