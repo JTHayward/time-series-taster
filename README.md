@@ -3,9 +3,9 @@
 
 ## Introduction
 
-This repository contains material for the Time Series taser.
+This repository contains material for the (Serious) Time for Time Series workshop at the Applied Machine Learning Days in Lausanne.
 
-- `00_introduciton`: introducy powerpoint for the taster.
+- `00_introduction`: introductory powerpoint for the workshop.
 - `01_time_series_analysis`: introductory notebook to familarise participants with Time Series functionality in Pandas.
 - `02_seasonality_modeling`: demonstration of how time series data can be modelled and the impmortance of an understanding of seasonalilty.
 - `03_hackathon`: opportunity for participants to try out the skills they have learnt during the taster.
