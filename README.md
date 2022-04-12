@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This repository contains material for the (Serious) Time for Time Series workshop at the Applied Machine Learning Days in Lausanne.
+This repository contains material for the (Serious) Time for Time Series workshop at the PyCon DE/PyData Berlin 2022. 
 
 - `00_introduction`: introductory powerpoint for the workshop.
 - `01_time_series_analysis`: introductory notebook to familarise participants with Time Series functionality in Pandas.
